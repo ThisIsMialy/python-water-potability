@@ -1,6 +1,8 @@
 ## Dataset
 The dataset is a compilation of water quality metrics for over 8500 different water bodies. No values are missing and data is clean.
 
+Classifier used: Linear Support Vector Classifier, OnevsOne Classifier from sk.learn
+
 Columns:
 1. pH value:
 PH is an important parameter in evaluating the acid–base balance of water. It is also
